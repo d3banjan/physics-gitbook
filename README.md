@@ -1,2 +1,6 @@
 # Plan
-My plan is to $\infty$ . $$\infty$$
+Immediate goals:
+
+1. type up notes from notebooks
+2. keep bengali versions of the notes - বাংলা 
+
