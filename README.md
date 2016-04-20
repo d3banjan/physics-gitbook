@@ -1,2 +1,2 @@
 # Plan
-My plan is to $\infty$ . 
+My plan is to $\infty$ . $$\infty$$
