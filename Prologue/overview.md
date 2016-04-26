@@ -1,2 +1,0 @@
-# Overview and Notation
-
